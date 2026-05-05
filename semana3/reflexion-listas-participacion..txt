@@ -1,8 +1,8 @@
 Reflexión sobre listas y participación – Semana 3 Día 4
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 5 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -19,3 +19,11 @@ En tu respuesta menciona al menos dos de estas ideas:
 - lenguaje claro
 
 Respuesta:
+Organizar la información en listas bien estructuradas es la base para construir 
+transparencia y fortalecer la participación ciudadana. Cuando los datos son legibles, 
+limina la barrera técnica que suele alejar a los vecinos de los asuntos públicos, permitiendo 
+que cualquier persona comprenda qué sucede en su entorno. El uso de un lenguaje claro en estos 
+registros no solo facilita el seguimiento comunitario de los proyectos, sino que actúa 
+como un filtro natural para la prevención de desinformación. En última instancia, una lista que 
+todos pueden entender genera confianza, transformando datos fríos en una herramienta real para 
+que la comunidad tome decisiones informadas y trabaje por un bien común.
